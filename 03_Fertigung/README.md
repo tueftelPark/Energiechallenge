@@ -1,6 +1,6 @@
 # Fertigung
 
-Hier sind Dateien zur Fertigung der Energiechallenge zu finden.
+Hier sind Dateien und Fotos zur Fertigung der Energiechallenge zu finden.
 
 </br>
 
