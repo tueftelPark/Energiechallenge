@@ -9,14 +9,15 @@ Du hast die Möglichkeit, an einer aufregenden Challenge teilzunehmen, die sich 
 </div>
 
 
+
 <br/>
 
-Lade die gesamte Repository als .zip Datei herunter. Auf deinem Computer kannst du den Rechner entzippen und alle deine Übungen nutzen.
+Lade die gesamte Repository als .zip Datei herunter. Auf deinem Computer kannst du den Ordner entzippen und alle Dateien korrekt ansehen.
 
 </br>
 
 
-<h4> Erklärungen zu den einzelnen Ordner </h4>
+## Erklärungen zu den einzelnen Ordner 
 
 
 <br/>
@@ -24,8 +25,7 @@ Lade die gesamte Repository als .zip Datei herunter. Auf deinem Computer kannst 
 <ins>00_Uebungen</ins>
 <br/>
 
-In diesem Ordner sind mehrere Übungen zu finden rund um das autonome Fahrzeug.
-Jede Übung ist die Aufgabe im Code wie auch auf GitHub beschrieben.
+In diesem Ordner sind mehrere Übungen zu finden.
 
 <br/>
 
@@ -36,25 +36,28 @@ Hier sind Beispielcodes und Spickzettel zu finden. Beachte das die hier enthalte
 
 <ins>02_Anleitung</ins>
 
-Hier sind Anleitungen aufgelistet zum Aufbau des autonomen Fahrzeugs. 
+Hier sind Anleitungen aufgelistet zum Aufbau des Produkts. 
 
 <br/>
 
 
 <ins>03_Fertigung</ins>
 
-Hier sind Dateien zur Fertigung des autonomen Fahrzeugs zu finden. 
+Hier sind Dateien zur Fertigung des Produkts falls du es selber herstellen willst. 
 
 <br/>
 
 <ins>98_Sonstiges</ins>
 
- Hier sind sonstige Dateien zu finden.
+ Hier sind sonstige Infos zu finden.
 
 <br/>
 
 <ins>99_Solution</ins>
 
-Hier sind mögliche Lösungscodes für das autonome Fahrzeug zu finden.
+Hier sind mögliche Lösungscodes zu finden.
+
+
+## FAQ
 
 [Zum Anfang der Datei](#anfang)
